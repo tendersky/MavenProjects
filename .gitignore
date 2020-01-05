@@ -1,0 +1,6 @@
+# Project exclude paths
+/maven01/target/
+/mavenparent/mavendao/target/
+/mavenparent/mavenservice/target/
+/mavenparent/mavenweb/target/
+/SpringCloudDemo/eurekaserver/target/

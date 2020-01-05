@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo/SpringCloudDemo.iml" filepath="$PROJECT_DIR$/SpringCloudDemo/SpringCloudDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringProjects.iml" filepath="$PROJECT_DIR$/.idea/SpringProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo/configserver/configserver.iml" filepath="$PROJECT_DIR$/SpringCloudDemo/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringCloudDemo/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/SpringCloudDemo/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven01/maven01.iml" filepath="$PROJECT_DIR$/maven01/maven01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/mavendao/mavendao.iml" filepath="$PROJECT_DIR$/mavenparent/mavendao/mavendao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/mavenparent.iml" filepath="$PROJECT_DIR$/mavenparent/mavenparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/mavenservice/mavenservice.iml" filepath="$PROJECT_DIR$/mavenparent/mavenservice/mavenservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenparent/mavenweb/mavenweb.iml" filepath="$PROJECT_DIR$/mavenparent/mavenweb/mavenweb.iml" />
+    </modules>
+  </component>
+</project>
